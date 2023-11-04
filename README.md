@@ -9,6 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/nijithneo" target="blank"><img src="https://img.shields.io/twitter/follow/nijithneo?logo=twitter&style=for-the-badge" alt="nijithneo" /></a> </p>
 
+
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://nijithwilson.github.io/portfolio/](https://nijithwilson.github.io/portfolio/)
@@ -37,3 +38,11 @@
 <br><br><br><br><br><br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nijithwilson&show_icons=true&locale=en" alt="nijithwilson" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nijithwilson&" alt="nijithwilson" /></p>
+
+<!-- Buy me a coffee section -->
+<h3 align="left">Support Me:</h3>
+<a href="nijithwilson@oksbi" target="_blank">
+  <img src="https://cdn-images-1.medium.com/max/738/1*G95uyokAH4JC5Ppvx4LmoQ@2x.png" alt="Buy me a coffee" height="40" width="160" />
+</a>
+
+
