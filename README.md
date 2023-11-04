@@ -39,10 +39,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nijithwilson&" alt="nijithwilson" /></p>
 
-<!-- Buy me a coffee section -->
-<h3 align="left">Support Me:</h3>
-<a href="nijithwilson@oksbi" target="_blank">
-  <img src="https://cdn-images-1.medium.com/max/738/1*G95uyokAH4JC5Ppvx4LmoQ@2x.png" alt="Buy me a coffee" height="40" width="160" />
-</a>
 
 
