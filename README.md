@@ -42,9 +42,9 @@
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nijithwilson&show_icons=true&locale=en&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=nijithneo&show_icons=true&locale=en&theme=dark" alt="GitHub Stats">
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nijithwilson&theme=dark" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nijithneo&theme=dark" alt="GitHub Streak">
 </p>
