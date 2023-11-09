@@ -46,6 +46,7 @@
 <h3>GitHub Stats Card</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nijithneo&show_icons=true&locale=en" alt="nijithneo" /></p>
 
+<h3>GitHub Streak Stats</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nijithneo&" alt="nijithneo" /></p>
 
 # Blog posts
