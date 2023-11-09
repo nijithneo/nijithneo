@@ -42,7 +42,7 @@
 
 <h3>Top Skills Card</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nijithneo&show_icons=true&locale=en&layout=compact" alt="nijithneo" /></p>
-<br><br><br><br>
+<br><br><br><br><br>
 <h3>GitHub Stats Card</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nijithneo&show_icons=true&locale=en" alt="nijithneo" /></p>
 
