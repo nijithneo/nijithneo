@@ -49,8 +49,3 @@
 <h3>GitHub Streak Stats</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nijithneo&" alt="nijithneo" /></p>
 
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
