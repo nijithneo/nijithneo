@@ -1,7 +1,6 @@
 # Hi there, I'm Nijith Wilson 👋
 
 ## A Passionate Ethical Hacker | Developer | Tech Enthusiast from India 🇮🇳
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1051853729512575007/1184358762887258253/48b25df9-2ea6-4589-ac63-83124257d1db.jpg?ex=658baf0d&is=65793a0d&hm=95689d663274ea9d7e3488a7e393662701a97c11dc6eeb90a5362d8577a3f547&">
 
 
 - 🔭 I’m currently working on **PyInjectorPDFGen**
