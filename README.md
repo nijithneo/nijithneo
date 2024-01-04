@@ -9,7 +9,7 @@
 - 🤝 I’m looking for help with [Discord Access Trojan (DAT)](https://github.com/nijithneo/DAT.git)
 - 📝 I regularly write articles on [Blogger](https://nijithneo.blogspot.com/)
 - 📫 How to reach me: [nijithneoxz@gmail.com](mailto:nijithneoxz@gmail.com)
-- ⚡ Fun fact: **I Think I am Dump** 😄
+- ⚡ Fun fact: **Never Give Up** 😄
 
 ### Connect with me:
 
